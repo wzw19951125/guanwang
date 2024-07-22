@@ -2,7 +2,7 @@
 defineOptions({
   name: 'IndexPage',
 })
-const appName = 'Naku'
+const appName = 'CosLive'
 </script>
 
 <template>
