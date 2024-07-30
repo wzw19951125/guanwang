@@ -2,7 +2,7 @@
 defineOptions({
   name: 'IndexPage',
 })
-const appName = 'New'
+const appName = 'HoiChat Ai'
 </script>
 
 <template>
