@@ -2,7 +2,7 @@
 defineOptions({
   name: 'IndexPage',
 })
-const appName = 'Nuka'
+const appName = 'Metachat'
 </script>
 
 <template>
