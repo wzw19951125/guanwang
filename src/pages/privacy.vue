@@ -2,7 +2,7 @@
 defineOptions({
   name: 'IndexPage',
 })
-const appName = 'Metachat'
+const appName = 'CosGril'
 </script>
 
 <template>
