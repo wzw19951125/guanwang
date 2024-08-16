@@ -9,7 +9,7 @@ defineOptions({
     <img h-full w-full src="../assets/bg.webp" alt="">
 
     <div class="email" absolute bottom-10 w-full flex justify-center>
-      <div rd-2 bg-style="color: #000000;" p-2 p-x-5 text-5 style="color: #000000;">
+      <div rd-2 bg-transparent p-2 p-x-5 text-5 style="color: #9641E7;">
         new
       </div>
     </div>
